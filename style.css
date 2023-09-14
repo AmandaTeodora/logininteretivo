@@ -25,7 +25,7 @@
   width: calc(var(--size) / 3);
   height: calc(var(--size) / 3);
   border-radius: 40% 40% 0 0;
-  background-color: #d95151;
+  background-color: #d451d9;
 }
 
 .character .eyes {
